@@ -1,24 +1,25 @@
 <div align="center">
-<img src="https://i.ibb.co/qCHNd0j/36fa310d84b9844bbea4eaf9d6462eed5d6127c6.jpg" alt="MR. KR3M" width="300" />
+<img src="https://i.ibb.co/qCHNd0j/36fa310d84b9844bbea4eaf9d6462eed5d6127c6.jpg" alt="FxBot Team" width="300" />
 
-# MR. KR3M
+# FxBot Team
 
 >
 >
 >
 </div>
 <p align="center">
-  <a href="https://github.com/MrKr3m"><img title="Author" src="https://img.shields.io/badge/Author-MR. KR3M-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Fxmods"><img title="Author" src="https://img.shields.io/badge/Author-FxBot Team-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
-  <a href="https://wa.me/6282293271747">MR. KR3M >//< </a>
+  <a href="https://wa.me/56950805080">FxBot Team >//< </a>
 </h4>
 </p>
 
-## CARA INSTALL DI TERMUX
+## CÓMO INSTALAR EN TERMUX
 ```bash
-> git clone https://github.com/MrKr3m/SELF-HX
-> cd SELF-HX
-> bash install.sh
+> pkg install git
+> pkg install ffmpeg
+> git clone https://github.com/Fxmods/FX-SELF-v83
+> cd FX-SELF-v83
 > npm start/node index.js
 ```
 
@@ -29,13 +30,13 @@
 
 
 
-# INSTALL
+# INSTALAR EN PC
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
 * [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
 * [Libwebp](https://developers.google.com/speed/webp/download)
 
-# FITUR
+# FUNCIONES ( ALGUNAS )
 
 | OWNER |✅|
 | ------------- | ------------- |
@@ -114,10 +115,9 @@
 | TERM |✅|
 | X |✅|
 
-  # MAKASIH LORT
+  # GRACIAS A
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`MhankBarBar`](https://github.com/MhankBarBar)
-* [`MRHRTZ`](https://github.com/MRHRTZ)
-* [`GUSTI ID`](https://github.com/Gusti-ID)
+* [`FxMods`](https://github.com/FxMods)
 
   
